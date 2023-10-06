@@ -1,3 +1,13 @@
+# Lancer le projet :
+
+- npm install
+
+#### Dans 2 terminals différents :
+- npm run dev
+- php websocket-server.php
+
+- Ouvrir le serveur local http://localhost:5173/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
